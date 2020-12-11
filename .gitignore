@@ -1,3 +1,4 @@
 .env
 __pycache__**
 utils/_cache.py
+ext/testing.py
